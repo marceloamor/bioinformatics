@@ -1,4 +1,3 @@
-###Bioinformatics Workshop 1
 ##DENSITY FUNCTIONS
 
 #set working directory
